@@ -69,3 +69,6 @@ This project is a great learning experience for anyone looking to get started wi
 - Model Evaluation: Using metrics like Mean Squared Error (MSE) and R-squared score to evaluate model performance.
   
 - Kaggle Submissions: Preparing and formatting predictions for submission to Kaggle competitions.
+
+
+Dataset link:https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
